@@ -48,7 +48,3 @@ and **LLM evaluation**. I care about getting models from a notebook into reliabl
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=firefox&logoColor=white)](https://iasonsomoglou.com)
 
 ---
-
-<!-- GitHub stats cards: these render automatically on GitHub. Replace JAson1232 if your username changes. -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JAson1232&show_icons=true&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAson1232&layout=compact&hide_border=true" />
